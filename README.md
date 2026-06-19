@@ -1,7 +1,7 @@
 # Hi, I'm Karol👋
 
 I am a young software developer passionate about building web and desktop applications.
-I love taking on new chalanges and I always treat them as a oportunity to learn.
+I love taking on new challanges and I always treat them as a oportunity to learn.
 
 ### 🚀 Last Project: DevDit
 Check out my latest project at live version: [https://devdit.korcuu.com](https://devdit.korcuu.com)
