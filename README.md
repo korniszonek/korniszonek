@@ -1,6 +1,6 @@
 # Hi, I'm Karol👋
 
-I am a young software developer passionate about building scalable web and desktop applications.
+I am a young software developer passionate about building web and desktop applications.
 I love taking on new chalanges and I always treat them as a oportunity to learn.
 
 ### 🚀 Last Project: DevDit
