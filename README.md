@@ -1,6 +1,6 @@
-# Hi, I'm Karol👋
+# Hi, I'm Karol 
 
-I am a young software developer passionate about building web and desktop applications.
+I am a young developer from Poland I specialize in building web and desktop applications.
 I love taking on new challanges and I always treat them as a oportunity to learn.
 ### 
 
