@@ -1,27 +1,5 @@
 # Hi, I'm Karol 
 
-I am a young developer from Poland I specialize in building web and desktop applications.
-I love taking on new challanges and I always treat them as a oportunity to learn.
-### 
-
-### 🚀 Last Project: DevDit
-Check out my latest project at live version: [https://devdit.korcuu.com](https://devdit.korcuu.com)
-You can check my other projects here: [https://korcuu.com/](https://korcuu.com/)
----
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
-</p>
-
----
-
-### 📫 Let's connect
 <p align="left">
   <a href="mailto:karolkorc0810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
